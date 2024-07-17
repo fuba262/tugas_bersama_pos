@@ -51,7 +51,7 @@
     <div id="collapsePages" class="collapse show" aria-labelledby="headingPages"
         data-parent="#accordionSidebar">
         <div class="bg-white py-2 collapse-inner rounded">
-            <a class="collapse-item" href="login.html">Barang Masuk</a>
+            <a class="collapse-item" href="<?= base_url('/transaksi_masuk');?>">Barang Masuk</a>
     </div>
 </li>
 

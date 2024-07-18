@@ -1,5 +1,10 @@
 <?php
 
+
+ini_set('memory_limit', '512M');
+// sisa kode Anda di sini
+
+
 /*
  *---------------------------------------------------------------
  * CHECK PHP VERSION
